@@ -1,2 +1,2 @@
 .vscode
-converter/python/src/auth/venv
+src/*/venv
